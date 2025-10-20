@@ -70,7 +70,7 @@ The `U3A` is powerd over USB with `5V`. The voltage of the pins can be setup thr
 #      P     +-----+    U               +-+-+-+-+-+-+      | Computer            |
 #      B        |       P               | 5V  | 3V3 |      |                     |
 #      A        |       D               +-----+-----+      +---------------------+
-#      C        |  J2   I                           |
+#      C        |  J4   I                           |
 #      K        | +---+---+---+---+---+---+---+---+ |
 #               | | V | C | C | D | D | D | R | G | |
 #               +-+ C | B | B | C | T | C | I | N +-+
