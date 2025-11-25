@@ -2,6 +2,8 @@
 
 # `U3A` - USB/UART/UPDI - Adapter
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/u3a)
+
 The `U3A` project is based on a ([FT232](#additional-information)) that ist used as USB (Full Speed) to serial UART transceiver. Most signals of the ([FT232](#additional-information)) are routed to the connector pins `J2` and `J4`. Whithin the DIP switches the adapter can be switched from `UART` to `UPDI` mode to program microcontrollers. It is possible to select between two voltage sources. Either `5V` from USB or `3V3` from the internal LDO on the board.
 
 > The LDO itself can drive around `800 mA`. Therefore it is necessary to install a cooling unit inside the housing. The mount for this is already provided in the housing.
