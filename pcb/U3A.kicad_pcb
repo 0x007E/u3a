@@ -1509,7 +1509,7 @@
         (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp bf4efceb-e0cf-438a-8ed3-8d224b79f6df)
     )
-    (fp_text value "100n" (at 3.761 0 90) (layer "B.Fab")
+    (fp_text value "100n" (at 0.0018 1.524 90) (layer "B.Fab")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b04f1e96-2cd5-4a46-9125-e57dd2b194e0)
     )
