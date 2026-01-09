@@ -55,6 +55,14 @@ The housing has a tolerance of `0.2mm` on each side of the case. So the pcb shou
 
 The `U3A` is powerd over USB with `5V`. The voltage of the pins can be setup through jumper `J1`. Either `5V` or `3V3`. The output of the system is driven by `CBUS4`. It needs to be configured through [FT_PROG](#additional-information). Mostly pins of the IC are routed to the connectors `J2` and `J4`
 
+| CBUS | Value         | Description                                       |
+|:----:|:--------------|:--------------------------------------------------|
+| 0    | TXLED#        | Transmit signal LED pin                           |
+| 1    | RXLED#        | Receive signal LED pin                            |
+| 2    | TXDEN/SLEEP#  | Depends on external module (`u3a_rs422`/`_rs485`) |
+| 3    | PWREN#        | Drive external hardware (`u3a_rs422`/`_rs485`)    |
+| 4    | PWREN#        | Drive external `VCC` pins with selected voltage   |
+
 ## Simple loopback setup for testing purpose
 
 ``` bash
