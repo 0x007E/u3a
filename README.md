@@ -47,7 +47,7 @@ The housing has a tolerance of `0.2mm` on each side of the case. So the pcb shou
 
 ![Assembled](./images/assembled.png)
 
-#### Exploded
+### Exploded
 
 ![Exploded](./images/explosion.png)
 
