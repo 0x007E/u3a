@@ -90,7 +90,7 @@ On some `FT232RL` (NRND) a usb-connection issue occurs if the volatge jumper (`J
 
 | Type       | Link                                                                 | Description                                          |
 |:----------:|:--------------------------------------------------------------------:|:-----------------------------------------------------|
-| FT232RL    | [pdf](https://ftdichip.com/wp-content/uploads/2020/08/DS_FT232R.pdf) | USB to serial UART interface IC                      |
+| FT232R     | [pdf](https://ftdichip.com/wp-content/uploads/2020/08/DS_FT232R.pdf) | USB to serial UART interface IC                      |
 | FT_PROG    | [web](https://ftdichip.com/utilities/#ft_prog)                       | EEPROM programming utility for use with FTDI devices |
 | KiCAD      | [web](https://www.kicad.org/)                                        | KiCAD project page                                   |
 | FreeCAD    | [web](https://www.freecad.org/)                                      | FreeCAD project page                                 |
