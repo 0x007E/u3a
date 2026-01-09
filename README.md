@@ -82,7 +82,7 @@ The `U3A` is powerd over USB with `5V`. The voltage of the pins can be setup thr
 
 # Errata/Errors
 
-On some `FT232RL` (NRND) a usb-connection issue occurs if the volatge jumper (`J1`) is set to `3V3`. To solve this issue remove jumper `J1` before the usb-port is connected to a computer and reinsert the jumper `J1` after the connection between the computer and `FT232` is initiated.
+On some `FT232RL` (NRND) a usb-connection issue occurs if the volatge jumper (`J1`) is set to `3V3`. To solve this issue remove jumper `J1` before the usb-port is connected to a computer and reinsert the jumper `J1` after the connection between the computer and `FT232` is initiated. Details can be found [here](https://github.com/0x007E/u3a/issues/1).
 
 ![USB-error](./images/usb-error.png)
 
