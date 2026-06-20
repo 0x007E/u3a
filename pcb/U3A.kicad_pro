@@ -697,18 +697,6 @@
         },
         {
           "group_by": false,
-          "label": "Vendor",
-          "name": "Vendor",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "VendorId",
-          "name": "VendorId",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "Sim.Device",
           "name": "Sim.Device",
           "show": false
@@ -724,6 +712,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "HTL",
+          "name": "HTL",
+          "show": true
         }
       ],
       "filter_string": "",
