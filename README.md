@@ -13,6 +13,15 @@ The `U3A` project is based on a ([FT232](#additional-information)) that ist used
 | Soldering   | ![?%](https://progress-bar.xyz/25?progress_color=00ff00&suffix=%20Low&width=120) |
 | Mechanical  | ![?%](https://progress-bar.xyz/25?progress_color=00ff00&suffix=%20Low&width=120) |
 
+# Adapter-Boards
+
+| RS232 | RS422 | RS485 |
+|:---------:|:----------:|:-----:|
+| ![Bottom Layer](https://github.com/0x007E/u3a_rs232/releases/latest/download/top.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/u3a_rs422/releases/latest/download/top.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/u3a_rs485/releases/latest/download/top.thumbnail.kicad.png) |
+| Schematic | Schematic | Schematic |
+| [pdf](https://github.com/0x007E/u3a_rs232/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29701/main/files) | [pdf](https://github.com/0x007E/rs422/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29767/main/files) | [pdf](https://github.com/0x007E/rs485/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29763/main/files) |
+| [GitHub](https://github.com/0x007e/u3a_rs232) | [GitHub](https://github.com/0x007e/u3a_rs422) | [GitHub](https://github.com/0x007e/u3a_rs485) |
+
 # Downloads
 
 | Type      | File               | Description              |
@@ -20,8 +29,9 @@ The `U3A` project is based on a ([FT232](#additional-information)) that ist used
 | Schematic | [pdf](https://github.com/0x007E/u3a/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29697/main/files) | Schematic files |
 | Board | [pdf](https://github.com/0x007E/u3a/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/29697/main/files) | Board file |
 | Drill | [pdf](https://github.com/0x007E/u3a/releases/latest/download/drill.pdf) | Drill file |
-| PCB | [zip](https://github.com/0x007E/u3a/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/u3a/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
-| Mechanical | [zip](https://github.com/0x007E/u3a/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/u3a/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP) files     |
+| BoM | [xlsx](https://github.com/0x007E/u3a/releases/latest/download/bom.xlsx) / [html](https://github.com/0x007E/u3a/releases/latest/download/bom.html)          | Bill of Material as Excel/interactive HTML |
+| PCB    | [zip](https://github.com/0x007E/u3a/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/u3a/releases/latest/download/kicad.tar.gz)    | KiCAD/Gerber/BoM/Drill files       |
+| Mechanical | [zip](https://github.com/0x007E/u3a/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/u3a/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP/STL) files     |
 
 # Hardware
 
