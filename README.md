@@ -19,7 +19,7 @@ The `U3A` project is based on a ([FT232](#additional-information)) that ist used
 |:---------:|:----------:|:-----:|
 | ![Bottom Layer](https://github.com/0x007E/u3a_rs232/releases/latest/download/top.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/u3a_rs422/releases/latest/download/top.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/u3a_rs485/releases/latest/download/top.thumbnail.kicad.png) |
 | Schematic | Schematic | Schematic |
-| [pdf](https://github.com/0x007E/u3a_rs232/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29701/main/files) | [pdf](https://github.com/0x007E/rs422/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29767/main/files) | [pdf](https://github.com/0x007E/rs485/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29763/main/files) |
+| [pdf](https://github.com/0x007E/u3a_rs232/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29701/main/files) | [pdf](https://github.com/0x007E/u3a_rs422/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29767/main/files) | [pdf](https://github.com/0x007E/u3a_rs485/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29763/main/files) |
 | [GitHub](https://github.com/0x007e/u3a_rs232) | [GitHub](https://github.com/0x007e/u3a_rs422) | [GitHub](https://github.com/0x007e/u3a_rs485) |
 
 # Downloads
