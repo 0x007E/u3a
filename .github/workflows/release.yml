@@ -16,7 +16,7 @@ jobs:
       KICAD_SCHEMATIC_FILE_EXTENSION: "kicad_sch"
       KICAD_PCB_FILE_EXTENSION: "kicad_pcb"
       KICAD_OUTPUT_FOLDER: "./output"
-      KIBOT_CONFIG_FILE: ".kibot/build.kibot.yaml"
+      KIBOT_CONFIG_FILE: ".kibot/release.kibot.yaml"
     runs-on: ubuntu-latest
     steps:
     - name: Fetch repository
